@@ -1,0 +1,8 @@
+<Script
+?>
+<BSHD
+Program?>
+CMD RUN?>
+<Script
+Offline >
+Code Protection By EasyCraft>
